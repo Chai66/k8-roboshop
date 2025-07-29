@@ -1,0 +1,5 @@
+# Once created name resource, push into the github, pull into docker hub and apply
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: roboshop
